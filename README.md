@@ -4,7 +4,7 @@ Procuro aprimorar minhas habilidades na área de soluções tecnológicas
 
 João Pessoa - BR
 
-https://www.linkedin.com/in/douglas-brilhante-33199b16a/
+https://www.linkedin.com/in/douglasbrilhantedev/
 
 email: douglasbrilhante@hotmail.com
 
