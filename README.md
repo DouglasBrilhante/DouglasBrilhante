@@ -6,9 +6,7 @@ João Pessoa - BR
 
 https://www.linkedin.com/in/douglasbrilhantedev/
 
-email: douglasbrilhante@hotmail.com
+email: douglasbrilhantedev@gmail.com
 
-ig: @dougbrilhante
 
-tt: @dbrilhantte
 
