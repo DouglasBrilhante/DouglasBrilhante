@@ -1,7 +1,7 @@
 
-- 🖥️ Trabalho atualmente como Dev Full Stack Jr
-- 🌱 Estudando atualmente: .NET
-- 📈 Estudos futuros: React, Flutter, Node
+- 🖥️ Trabalho atualmente como Dev Front End Jr.
+- 🌱 Estudando atualmente: JS
+- 📈 Estudos futuros: React
 - 🌎 João Pessoa - PB (+55 BR)
 
 
