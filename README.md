@@ -1,7 +1,7 @@
 
-- 🖥️ Trabalho atualmente como Dev Front End Jr.
-- 🌱 Estudando atualmente: JS
-- 📈 Estudos futuros: React
+- 🖥️ Trabalho atualmente como Scrum Master
+- 🌱 Estudando atualmente: Nexus Framework
+- 📈 Migração de Dev para Agile
 - 🌎 João Pessoa - PB (+55 BR)
 
 
